@@ -48,7 +48,7 @@ tags:
 
 러브 레터는 굉장히 많은 테마로 리메이크되었습니다. Z-man games에서는 만우절을 기념으로 온라인 데이팅 서비스를 테마로 하여 위와 동일한 룰을 가진 [Love Letter: Sender](https://www.zmangames.com/en/products/love-letter-sender/)를 Print-and-play 형식으로 공개했습니다. 이 이외에도 [Munchkin Loot Letter](https://munchkin.game/products/games/munchkin-loot-letter/)과 같은 많은 Retheme이 존재합니다. 여덟 가지(또는 열 가지)의 효과에 맞는것들만 있다면 만들 수 있고, 규칙도 간단하고 변형 역시 쉽기 때문이죠.
 
-이런 Retheme 외에도, "광기" 메커니즘을 추가한 [Lovecraft Letter](https://www.zmangames.com/en/products/infinity-gauntlet-love-letter-game/), 타노스와 마블의 히어로들 간의 대결을 테마로 만들어진 [Infinity Gauntlet: A Love Letter^TM^ Game](https://www.zmangames.com/en/products/infinity-gauntlet-love-letter-game/) 역시 출시했습니다.
+이런 Retheme 외에도, "광기" 메커니즘을 추가한 [Lovecraft Letter](https://www.zmangames.com/en/products/infinity-gauntlet-love-letter-game/), 타노스와 마블의 히어로들 간의 대결을 테마로 만들어진 [Infinity Gauntlet: A Love Letter™ Game](https://www.zmangames.com/en/products/infinity-gauntlet-love-letter-game/) 역시 출시했습니다.
 
 # 기본 전략
 
