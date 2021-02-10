@@ -132,7 +132,7 @@ Princess를 든 채로 Baron을 플레이하거나 지목당하는 경우, 당�
 
 # WIP Project: Love Letter: Rebel
 
-현재 존재하는 러브 레터의 여러 버전들과 Boardgamegeek의 유저들이 만든 확장들을 합치고, [Lovecraft Letter](https://www.zmangames.com/en/products/infinity-gauntlet-love-letter-game/)의 기본 룰을 기본으로 하여 Love Letter: Rebel이라는 standalone megaexpansion을 만들어보는 중에 있습니다. 변형 규칙도 만들 예정입니다. 다음에 이에 대해 이야기해볼 기회가 있다면 좋겠네요.
+현재 존재하는 러브 레터의 여러 버전들과 Boardgamegeek의 유저들이 만든 확장들을 합치고, [Lovecraft Letter](https://www.zmangames.com/en/products/infinity-gauntlet-love-letter-game/)의 기본 룰을 기본으로 하여 Love Letter: Rebel이라는 standalone mega-expansion을 만들어보는 중에 있습니다. 변형 규칙도 만들 예정입니다. 다음에 이에 대해 이야기해볼 기회가 있다면 좋겠네요.
 
 ---
 
