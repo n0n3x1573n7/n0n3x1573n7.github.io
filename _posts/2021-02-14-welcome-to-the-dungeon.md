@@ -1,6 +1,6 @@
 ---
 title: "Welcome (back) to the Dungeon of Mandom"
-date: 2021-02-13 00
+date: 2021-02-14 00
 categories:
   - game design
 tags:
