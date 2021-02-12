@@ -1,5 +1,5 @@
 ---
-title: "Welcome (back) to the Dungeon of Mandom"
+title: "Dungeon of Mandom: Risk vs Reward"
 date: 2021-02-14 00
 categories:
   - game design
