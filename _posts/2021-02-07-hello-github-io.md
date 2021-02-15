@@ -2,7 +2,7 @@
 title: "Hello, github.io world!"
 date: 2021-02-07 00
 categories:
-  - blog
+  - skirmish
 tags:
   - 개발
 ---
