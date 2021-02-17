@@ -131,6 +131,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-last-modified-at
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -207,3 +208,6 @@ tag_archive:
 
 encoding: "utf-8"
 future: false
+
+last-modified-at:
+    date-format: '%y/%m/%d'
