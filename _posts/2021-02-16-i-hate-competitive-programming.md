@@ -9,7 +9,7 @@ tags:
   - 단문
 ---
 
-최종 업데이트: {{ page.last_modified_at }}
+최종 업데이트: {{ page.last_modified_at | date: "%Y-%m-%d" }}
 
 Competitive Programming[CP]은 대회 환경 내에서 보통 알고리즘/데이터구조에 관련된 문제를 풀이하는 것입니다. 제 친구들은 이를 굉장히 많이 합니다. 대회에서 수상한 친구들도 많고요.
 
