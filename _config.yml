@@ -210,4 +210,4 @@ encoding: "utf-8"
 future: false
 
 last-modified-at:
-    date-format: '%y/%m/%d'
+    date-format: '%Y/%m/%d'
