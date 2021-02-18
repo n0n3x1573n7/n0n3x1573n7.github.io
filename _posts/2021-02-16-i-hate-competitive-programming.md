@@ -2,14 +2,14 @@
 title: "Why the buzz on CP?"
 date: 2021-02-16 00
 categories:
-  - skirmish
+  - opinion
 tags:
   - 개발
   - 의견
   - 단문
 ---
 
-최종 업데이트: {% last_modified_at %}
+최종 업데이트: 2021-02-17
 
 Competitive Programming[CP]은 대회 환경 내에서 보통 알고리즘/데이터구조에 관련된 문제를 풀이하는 것입니다. 제 친구들은 이를 굉장히 많이 합니다. 대회에서 수상한 친구들도 많고요.
 
