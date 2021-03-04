@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "변희수 하사님, 수고하셨습니다."
 date: 2021-03-04 00
 categories:
   - Human Rights
