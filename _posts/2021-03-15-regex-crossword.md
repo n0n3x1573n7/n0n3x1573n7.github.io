@@ -50,9 +50,9 @@ Formal Language Theory에서는, finite alphabet $$\Sigma$$에 대해 다음과 
 
 어떤 Regular Expression $$R$$이 표현할 수 있는 모든 string의 집합을 $$L(R)$$으로 표현합니다.
 
-Regex Crossword는 Character set $$\Sigma$$와 $$n \times m$$의 직사각형 그리드[^c] $$G=\left(g_{ij}\right)$$의 각 행과 열에 대해 Regular Expression $$C_i(1\le i\le n)$$, $$R_j(1 \le j \le m)$$이 주어집니다.  $$\forall 1\le i \le n, \cdot_{k=1}^{n}g_{ik} \in L(C_i)$$, $$\forall 1\le j \le m, \cdot_{k=1}^{n}g_{kj} \in L(R_j)$$를 모두 만족하는 $$\left(g_{ij}\right)$$를 찾는다면 이 퍼즐을 해결한 것입니다. [아래 예시](https://regexcrossword.com/challenges/experienced/puzzles/1)와 같은 방식입니다:
+Regex Crossword는 Character set $$\Sigma$$와 $$n \times m$$의 직사각형 그리드[^c] $$G=\left(g_{ij}\right)$$의 각 행과 열에 대해 Regular Expression $$C_i(1\le i\le n)$$, $$R_j(1 \le j \le m)$$이 주어집니다.  $$\forall 1\le i \le n, \cdot_{k=1}^{n}g_{ik} \in L(C_i)$$, $$\forall 1\le j \le m, \cdot_{k=1}^{n}g_{kj} \in L(R_j)$$를 모두 만족하는 $$\left(g_{ij}\right)$$를 찾는다면 이 퍼즐을 해결한 것입니다. [아래 예시](https://regexcrossword.com/challenges/experienced/puzzles/1)와 같은 방식입니다:	
 
-![해결된 Regex Crossword](assets/images/solved-regex-crossword.png)
+![해결된 Regex Crossword](../assets/images/solved-regex-crossword.png)
 
 
 
